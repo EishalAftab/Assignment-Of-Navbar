@@ -1,0 +1,42 @@
+
+
+ul{
+    display: flex;
+    gap: 23px;
+    justify-content: flex-end;
+    background-color: black;
+    color:whitesmoke;
+    margin: 0;
+    padding: 100px;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+button{
+    font-weight: 900;
+}
+#pro-card{
+    height: 460px;
+    width: 210px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 8px;
+    
+    
+    
+}
+#content{
+    border-radius: 5px;
+    padding: 4px;
+ 
+
+
+}
+img{
+    padding: 22px;
+    
+}
+
+
